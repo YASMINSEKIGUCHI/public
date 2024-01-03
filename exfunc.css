@@ -1,0 +1,20 @@
+header{
+    font: normal 18pt Arial;
+    text-align: center;
+    padding: 10px;
+}
+body{
+    background: rgb(145, 145, 231);
+    font: normal 12pt Arial;
+}
+section{
+    background: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 500px;
+    margin: auto;
+}
+select#fLista{
+    width: 150px;
+    
+}
